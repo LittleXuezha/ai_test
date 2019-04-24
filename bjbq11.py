@@ -9,4 +9,4 @@ for g in range(0, 21):
                 print("g:{},m:{},x:{}".format(g, m, x))
 print("run time:{}s".format(time.clock()-t))
 print("count:{}".format(count))
-print("test1")
+print("test22")
